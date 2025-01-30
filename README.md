@@ -1,3 +1,4 @@
+***The script is detected rn but it still works and you wont get banned. It only kicks you every once in a while***
 If you want to modify the script and add your own teleports just open the .lua file in a code editor like serris code editor and copypaste one of the teleports or use this format and paste it right below the other ones with a one line gap:
 ```
 -- Name of TP
