@@ -11,3 +11,8 @@ TeleportTab:CreateButton({
 })
 ```
 All you have to do is rename the copypasted TP and replace the "_ coord here" section with whatever the coords are on the GPS. (Don't forget to remove the "" marks).
+
+If you want to use Auto Farm you are going to have to modify this line of code(It appears twice in the code so you have to change it in both lines for it to work):
+```
+local rod = game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arctic Rod")
+```
